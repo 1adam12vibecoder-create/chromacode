@@ -24,7 +24,6 @@
     "LICENSE",
     "README.md"
   ],
-  "gypfile": true,
   "scripts": {
     "build": "tsup",
     "build:native": "node-gyp configure build",
