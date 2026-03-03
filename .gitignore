@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+build/
+native/build/
+native/lib/
+*.node
+.DS_Store
+coverage/
