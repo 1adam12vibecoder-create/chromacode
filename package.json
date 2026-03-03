@@ -25,6 +25,7 @@
     "README.md"
   ],
   "scripts": {
+    "install": "true",
     "build": "tsup",
     "build:native": "node-gyp configure build",
     "build:native:c": "cd native && make all",
